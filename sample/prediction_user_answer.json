@@ -1,0 +1,28 @@
+{
+  "type": "MESSAGE",
+  "data": {
+    "topic": "predictions-user-v1.102465943",
+    "message": {
+      "type": "prediction-result",
+      "data": {
+        "timestamp": "2022-07-29T13:30:58.922952999Z",
+        "prediction": {
+          "id": "35035e882d11a5542e39ebf64a6f6b8792a84f16d7f87ec690fe800f5821d508",
+          "event_id": "4a296464-836a-46c0-ae6e-05ca8779f22e",
+          "outcome_id": "a5677d72-17c3-4730-bde8-232d1c938365",
+          "channel_id": "102845970",
+          "points": 10,
+          "predicted_at": "2022-07-29T13:19:25.535381483Z",
+          "updated_at": "2022-07-29T13:30:58.918143606Z",
+          "user_id": "102465943",
+          "result": {
+            "type": "LOSE",
+            "points_won": null,
+            "is_acknowledged": false
+          },
+          "user_display_name": null
+        }
+      }
+    }
+  }
+}

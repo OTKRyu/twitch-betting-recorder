@@ -1,0 +1,146 @@
+{
+  "topic": "predictions-channel-v1.102845970",
+  "message": {
+    "type": "event-updated",
+    "data": {
+      "timestamp": "2022-07-29T13:19:27.194413753Z",
+      "event": {
+        "id": "4a296464-836a-46c0-ae6e-05ca8779f22e",
+        "channel_id": "102845970",
+        "created_at": "2022-07-29T13:19:20.279971863Z",
+        "created_by": {
+          "type": "USER",
+          "user_id": "102845970",
+          "user_display_name": "김도",
+          "extension_client_id": null
+        },
+        "ended_at": null,
+        "ended_by": null,
+        "locked_at": null,
+        "locked_by": null,
+        "outcomes": [
+          {
+            "id": "a5677d72-17c3-4730-bde8-232d1c938365",
+            "color": "BLUE",
+            "title": "IN 3  ( 최종결과로 판단! )",
+            "total_points": 250010,
+            "total_users": 2,
+            "top_predictors": [
+              {
+                "id": "5c75b5e43e6cb4b3ee17a2bf028a126378c962bde022206d7bbe9bd57e8f8141",
+                "event_id": "4a296464-836a-46c0-ae6e-05ca8779f22e",
+                "outcome_id": "a5677d72-17c3-4730-bde8-232d1c938365",
+                "channel_id": "102845970",
+                "points": 250000,
+                "predicted_at": "2022-07-29T13:19:24.302827553Z",
+                "updated_at": "2022-07-29T13:19:24.302827553Z",
+                "user_id": "148687635",
+                "result": null,
+                "user_display_name": "내일저녁뭐먹지"
+              },
+              {
+                "id": "35035e882d11a5542e39ebf64a6f6b8792a84f16d7f87ec690fe800f5821d508",
+                "event_id": "4a296464-836a-46c0-ae6e-05ca8779f22e",
+                "outcome_id": "a5677d72-17c3-4730-bde8-232d1c938365",
+                "channel_id": "102845970",
+                "points": 10,
+                "predicted_at": "2022-07-29T13:19:25.535381483Z",
+                "updated_at": "2022-07-29T13:19:25.535381483Z",
+                "user_id": "102465943",
+                "result": null,
+                "user_display_name": "맑았던하늘"
+              }
+            ],
+            "badge": { "version": "blue-1", "set_id": "predictions" }
+          },
+          {
+            "id": "1ff170a9-1a39-4f17-806f-0c60787d4e6d",
+            "color": "PINK",
+            "title": "실패",
+            "total_points": 751104,
+            "total_users": 6,
+            "top_predictors": [
+              {
+                "id": "b9ec74a076ae810013a878f1d326d1d0ad919dc1d16dac43b358ceeeaadaadfa",
+                "event_id": "4a296464-836a-46c0-ae6e-05ca8779f22e",
+                "outcome_id": "1ff170a9-1a39-4f17-806f-0c60787d4e6d",
+                "channel_id": "102845970",
+                "points": 250000,
+                "predicted_at": "2022-07-29T13:19:26.061592047Z",
+                "updated_at": "2022-07-29T13:19:26.061592047Z",
+                "user_id": "421456258",
+                "result": null,
+                "user_display_name": "코히를넘마니마션나바여"
+              },
+              {
+                "id": "8201709bcdda656d1d06115543dfb03cac8533131eb1393af17a6c25b8cdd5c6",
+                "event_id": "4a296464-836a-46c0-ae6e-05ca8779f22e",
+                "outcome_id": "1ff170a9-1a39-4f17-806f-0c60787d4e6d",
+                "channel_id": "102845970",
+                "points": 250000,
+                "predicted_at": "2022-07-29T13:19:26.272444942Z",
+                "updated_at": "2022-07-29T13:19:26.272444942Z",
+                "user_id": "84495576",
+                "result": null,
+                "user_display_name": "존재하지않는자"
+              },
+              {
+                "id": "828204baf973fbf932e238468456f51e1f3e79de256985b552a1b22a20a198ef",
+                "event_id": "4a296464-836a-46c0-ae6e-05ca8779f22e",
+                "outcome_id": "1ff170a9-1a39-4f17-806f-0c60787d4e6d",
+                "channel_id": "102845970",
+                "points": 250000,
+                "predicted_at": "2022-07-29T13:19:26.482302097Z",
+                "updated_at": "2022-07-29T13:19:26.482302097Z",
+                "user_id": "116829637",
+                "result": null,
+                "user_display_name": "BruSh_h"
+              },
+              {
+                "id": "816baddde5f28c89a74319e8dd948a11b8d4d69c4a5e89c9ef2a997cde1c7abe",
+                "event_id": "4a296464-836a-46c0-ae6e-05ca8779f22e",
+                "outcome_id": "1ff170a9-1a39-4f17-806f-0c60787d4e6d",
+                "channel_id": "102845970",
+                "points": 984,
+                "predicted_at": "2022-07-29T13:19:26.774255012Z",
+                "updated_at": "2022-07-29T13:19:26.774255012Z",
+                "user_id": "137480451",
+                "result": null,
+                "user_display_name": "초코렛"
+              },
+              {
+                "id": "da87cbd32a9a57cb36f399eb13a61acb39092ff62fd4e6a76c71e5bc6bbceef7",
+                "event_id": "4a296464-836a-46c0-ae6e-05ca8779f22e",
+                "outcome_id": "1ff170a9-1a39-4f17-806f-0c60787d4e6d",
+                "channel_id": "102845970",
+                "points": 80,
+                "predicted_at": "2022-07-29T13:19:26.96362341Z",
+                "updated_at": "2022-07-29T13:19:26.96362341Z",
+                "user_id": "97748188",
+                "result": null,
+                "user_display_name": "StealAndLie"
+              },
+              {
+                "id": "6ee073987d41eb7b9fa7b5bf547fbcf68e5d1fd3048d51df71ffcd2e6f8019fd",
+                "event_id": "4a296464-836a-46c0-ae6e-05ca8779f22e",
+                "outcome_id": "1ff170a9-1a39-4f17-806f-0c60787d4e6d",
+                "channel_id": "102845970",
+                "points": 40,
+                "predicted_at": "2022-07-29T13:19:23.635382422Z",
+                "updated_at": "2022-07-29T13:19:26.542408983Z",
+                "user_id": "181755235",
+                "result": null,
+                "user_display_name": "sal1680z"
+              }
+            ],
+            "badge": { "version": "pink-2", "set_id": "predictions" }
+          }
+        ],
+        "prediction_window_seconds": 120,
+        "status": "ACTIVE",
+        "title": "위험한 도박 ( 배팅규칙 방장 마음대로함 ) (배팅삭제가능)",
+        "winning_outcome_id": null
+      }
+    }
+  }
+}

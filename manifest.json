@@ -4,10 +4,16 @@
   "version": "0.1.0",
   "manifest_version": 3,
   "background": {
-    "service_worker" : "./background.js"
+    "service_worker": "background.js"
   },
-  "permissions":[],
+  "content_scripts": [
+    {
+      "matches": ["https://www.twitch.tv/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "permissions": [],
   "action": {
-    "default_popup":"popup.html"
+    "default_popup": "popup.html"
   }
 }

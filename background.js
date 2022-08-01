@@ -30,7 +30,6 @@ function createDatabase() {
   request.onsuccess = function (event) {
     db = event.target.result;
     console.log("DB OPENED.");
-    insertRecords(records);
 
     db.onerror = function (event) {
       console.log("FAILED TO OPEN DB.");
